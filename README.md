@@ -1,1 +1,1 @@
-# bloodsafe
+# BloodSafe: A Blood Donation Management System
